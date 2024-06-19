@@ -19,11 +19,12 @@ pnpm nx run @do/is-even:build
 
 ## Discourse
 
-**NX for Monorepo Management**: NX excels in managing monorepos efficiently.
-**Bare Metal**: The repository intentionally avoids Docker to enhance developer
-experience on MacOS silicon. **PNPM**: PNPM's single package version usage
-minimizes disk space and speeds up installations, making it optimal for
-monorepos.
+- **Monorepo**: NX excels in managing
+  [monorepos efficiently](https://monorepo.tools/).
+- **Bare Metal**: The repository intentionally avoids Docker to enhance
+  developer experience on MacOS silicon.
+- **PNPM**: PNPM's single package version usage minimizes disk space and speeds
+  up installations, making it optimal for monorepos.
 
 ## Third-Party Documentation
 
